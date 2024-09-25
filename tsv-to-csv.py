@@ -24,3 +24,4 @@ if tsv_file_path:  # Proceed if a file was selected
     print(f"Converted {tsv_file_path} to {csv_file_path}")
 else:
     print("No input file selected.")
+    
